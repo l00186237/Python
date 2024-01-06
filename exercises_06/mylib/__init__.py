@@ -1,0 +1,1 @@
+copyright = "© JD 2023" 
