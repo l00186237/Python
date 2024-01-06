@@ -1,4 +1,4 @@
-#Python Exercises Repository
+# Python Exercises Repository
 
 This repository contains Python exercises completed tor the IaC module.
 
@@ -18,4 +18,4 @@ To get started with the exercises, follow these steps:
 
 ## License
 
-This repository is licensed under the Creative Commons License - see the LICENSE file for details.
+This repository is licensed under the Creative Commons License - see the LICENSE file for details.**
